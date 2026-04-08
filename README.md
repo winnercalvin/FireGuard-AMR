@@ -1,4 +1,4 @@
-# Fight Fire Total
+# FireGuard-AMR
 
 **자율 이동 로봇(AMR) 기반 화재 진압 및 인명 대피 유도 시스템**
 
